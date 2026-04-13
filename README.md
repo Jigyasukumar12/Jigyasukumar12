@@ -1,7 +1,14 @@
 ## Hi 👋, I'm Jigyasu Kumar
 # 💫 About Me:
-> Btech.Cse Student at Dr. APJ Abdul Kalam Technical University <br>> Currently doing MERN Stack<br>> Focusing on logic Building, System Design, DevOps<br>> Goal to land Better Internships
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
+Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** logic Building, System Design
+- 🌱 **I’m currently learning:** MERN Stack, DevOps
+- 👯 **I’m looking to collaborate on:** Productive Projects
+- 💬 **Ask me about:** Collaboration, Internships, Tech Support
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jigyasu_kr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jigyasu-kumar-ba670137b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jigyasukumar12rmps@gmail.com) 
