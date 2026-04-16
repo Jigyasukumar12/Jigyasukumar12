@@ -2,7 +2,7 @@
 # 💫 About Me:
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently working on:** logic Building, System Design
 - 🌱 **I’m currently learning:** MERN Stack, DevOps
