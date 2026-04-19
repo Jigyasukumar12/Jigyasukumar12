@@ -41,6 +41,9 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 ![](https://github-profile-trophy.vercel.app/?username=Jigyasukumar12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jigyasukumar12&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Jigyasukumar12&color=36BCF7&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Jigyasukumar12?style=flat-square&color=36BCF7&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/Jigyasukumar12?style=flat-square&color=36BCF7&labelColor=0d1117)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
