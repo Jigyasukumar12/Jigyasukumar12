@@ -32,8 +32,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jigyasukumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=Jigyasukumar12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jigyasukumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
