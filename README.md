@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 - 🌱 **I’m currently learning:** MERN Stack, DevOps
 - 👯 **I’m looking to collaborate on:** Productive Projects
 - 💬 **Ask me about:** Collaboration, Internships, Tech Support
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jigyasu_kr) 
