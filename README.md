@@ -42,8 +42,11 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 
 </div>
 
-![](https://streak-stats.demolab.com/?user=Jigyasukumar12&theme=dark&hide_border=false)<br/>
+<div align="center">
+  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jigyasukumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jigyasukumar12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
