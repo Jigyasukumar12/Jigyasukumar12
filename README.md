@@ -41,6 +41,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasukumar12&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
 </div>
+---
 
 <div align="center">
   
