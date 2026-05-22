@@ -35,14 +35,12 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jigyasukumar12&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigyasukumar12&theme=tokyonight&border_radius=10&hide_border=true&background=0d1117&ring=36BCF7&fire=ff6b6b&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=keshav-sudo&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-sudo&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13krsnaa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-sudo&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ![](https://streak-stats.demolab.com/?user=Jigyasukumar12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jigyasukumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
