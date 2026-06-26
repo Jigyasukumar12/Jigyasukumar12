@@ -39,13 +39,13 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 
 </div>
 
-<<div align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigyasukumar12&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
 
 </div>
 
-<<div align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasukumar12&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
 
