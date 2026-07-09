@@ -1,7 +1,7 @@
-## Hi 👋, I'm Jigyasu Kumar
-# 💫 About Me:
+## I'm Jigyasu Kumar
+# 👉 About Me:
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+TypeSc+%7C+PostgreSQL+%7C+Docker;Logic+Building%2C+Web+Apps+%26+System+Design%F0%9F%94%A5;Clean+Architecture+%7C+System+Design+%7C+REST+APIs;Always+learning%2C+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Logic+Building%2C+Building+Web+Apps+%26+System+Design%F0%9F%94%A5;Clean+Architecture+%7C+System+Design+%7C+REST+APIs;Always+learning%2C+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
 Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project or Anything Else. 
 
