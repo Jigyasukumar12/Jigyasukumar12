@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
   
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jigyasu_kr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigyasu-kumar-ba670137b) 
