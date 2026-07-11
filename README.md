@@ -1,7 +1,11 @@
-## I'm Jigyasu Kumar
-# 👉 About Me:
+<h1 align="center">Hi 👋, I'm Jigyasu Kumar</h1> 
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Logic+Building%2C+Building+Web+Apps+%26+System+Design%F0%9F%94%A5;Clean+Architecture+%7C+System+Design+%7C+REST+APIs;Always+learning%2C+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+### 🚀 About Me:
 
 Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project or Anything Else. 
 
@@ -11,16 +15,15 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 - 💬 **Ask me about:** Collaboration, Internships, Tech Support
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
   
-
-
-## 🌐 Social Media:
+---
+### 🌐 Social Media:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jigyasu_kr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigyasu-kumar-ba670137b) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jigyasukumar12rmps@gmail.com) 
 
-
-## 💻 Tech Stack:
+---
+### 💻 Tech Stack:
 
 <div align="center">
   
@@ -81,7 +84,8 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
+---
+### 📊 GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jigyasukumar12&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" /> 
@@ -94,14 +98,15 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 
 </div>
 
----
+##
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jigyasukumar12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
-## 🏆 GitHub Trophies
+---
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jigyasukumar12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -112,4 +117,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 ![GitHub Stars](https://img.shields.io/github/stars/Jigyasukumar12?style=flat-square&color=36BCF7&labelColor=0d1117)
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer" width="100%"/>
+</p><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
