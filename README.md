@@ -53,6 +53,7 @@ Email Me 👉 ✉️ **jigyasukumar12rmps@gmail.com** For Collaboration/Project 
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23010101.svg?style=flat-square&logo=socket.io)
 
 ### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
